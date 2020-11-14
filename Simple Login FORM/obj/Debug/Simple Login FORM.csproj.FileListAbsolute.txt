@@ -1,0 +1,15 @@
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\bin\Debug\Simple Login FORM.exe.config
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\bin\Debug\Simple Login FORM.exe
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\bin\Debug\Simple Login FORM.pdb
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple Login FORM.csprojAssemblyReference.cache
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple_Login_FORM.LoginForm.resources
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple_Login_FORM.Properties.Resources.resources
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple_Login_FORM.RegisterForm.resources
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple Login FORM.csproj.GenerateResource.cache
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple Login FORM.csproj.CoreCompileInputs.cache
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple Login FORM.exe
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple Login FORM.pdb
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\bin\Debug\MySql.Data.DLL
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\bin\Debug\Renci.SshNet.dll
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Arlo\Desktop\Simple MySQL Login FORM\Simple Login FORM\Simple Login FORM\obj\Debug\Simple Login FORM.csproj.CopyComplete
